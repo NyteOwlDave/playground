@@ -1,0 +1,4 @@
+   Compiling playground v0.1.0 (/home/dave/Projects/rust/playground)
+    Finished dev [unoptimized + debuginfo] target(s) in 1.33s
+     Running `target/debug/playground`
+Error!
